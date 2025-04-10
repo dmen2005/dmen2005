@@ -1,4 +1,4 @@
-👋 Hi, I’m Damian see  [portfolio](portfolio-damian-drent.netlify.app).  
+👋 Hi, I’m Damian. 
 👀 I’m interested in game development and coding.
 🌱 I’m currently learning C#, Unity, and improving development skills.  
 💞️ I’m looking to collaborate on open-source game projects, web development, and any cool tech-related initiatives.  
