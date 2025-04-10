@@ -1,5 +1,5 @@
 👋 Hi, I’m Damian see [portfolio](portfolio-damian-drent.netlify.app)
-👀 I’m interested in game development and coding..  
+👀 I’m interested in game development and coding.
 🌱 I’m currently learning C#, Unity, and improving development skills.  
 💞️ I’m looking to collaborate on open-source game projects, web development, and any cool tech-related initiatives.  
 📫 How to reach me: You can reach me through email drentdamian@gmail.com or on [LinkedIn](https://github.com/dmen2005?tab=overview&from=2025-01-01&to=2025-01-20).  
